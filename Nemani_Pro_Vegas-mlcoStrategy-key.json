@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vegas-mlcostrategy",
+  "private_key_id": "9e505efb190135d1e61f014159a23069f073f7de",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxomXOv5GRnk92\nZiaddeq1JBthDPGVJ9A0/lWFDhZKiJGTXfbJG0ZE+fkYUvETxEBjX6nUp3vArxuh\nnbg15EWJsDEs53L0q5BaRi79ob0teKqSEoC5BR7gI2qv/kaa3PXLQu6nSLffC2nQ\n1KKyuEULngcsCRgt0pGmo37jCObbo6OEUEyMFd6Ar0a2Mt9savG3syioq/3Y9JSR\nkgQnf0I0eedEIfhqiNCZWQPlh4Cjz0NSqsi4Tg+XSiag71DRi/NjULg6qJdnnrpx\nc5JNjJNRksYq/jaPFJiKFOSx4da5rhlevX4qGNT8tTvax9AqvG9vuM1BAqa3qJYP\n0Fbyo4OfAgMBAAECggEAC5MSYS4NtS2vQylq0LhzP7Rc7a5N5jMpl5pkRimMfZ93\nz4tq3jXJwWAsa/pTkmnSQZIP2zcX6DlAv/9/66W2e5SgelWRIazgLhGuqYDVdoC1\n/z33Z0GUfnRa/6Fo8QRUJmzJEjC50m3ISlQ1+cE/YSoTO4+oJKw402E0jmSbw6ns\n+CLCJGVJH5/KQAOpzoI4krlubziPN1Bj4QyV/b3SWymlMGda6IouXObzfTqWBeNG\nxO2K/dLK3ewpN3veEFJ7ODX9FyTTbc9tr7b2qZSKt4X/tV5HKluGqOSQh42XhrTe\nLEj2bw+nLlsBhi/7wJ5cw4cu4+sY38a5mmTgloebcQKBgQDyrfeysnTwvGZjyP1V\npb80gWef+mjT5K1DTNkZf1uo1KSuez7aCFitoe/UroPZrE+GXqO5bHnbeXDv9eJp\nlHPbkdFWMIw3eZwLfR+fydyF3M2B9yRPQBZQDNeTsXAA7C0wYqRSWWO1NAsWxf9k\ne/uuWG4P5MgeQqbgsBw/2Hq0hwKBgQC7YnEpxvWBQ/CwlOPmKpVVXVdarlzV6f21\niTIR8YHaLfnE8PrmRy+VOSfRL1YbMs9eyCqiTtG+iOUTMzA4VmttzYxp56Agi8iQ\nRa3T1AGlBZ+GYjZP5oqkOaoEhTkou8uNnTYz/J/jS5nTes4E+YqyoUbMSAbZky9O\neaHjD/8WKQKBgE1TJUOpHR2/yhgtaJsrrtr6CJyu20v450Q0blBzhi8rYjW+S26J\njkf0+0gXOyfWgZhc+2oPqFxIO7YZ8MSXarshoUQHQAZFF3WJrtPpK/zzOAAbUVR3\nJSTokqAav4druZJbO+SJWv3X0Vi2SgQohS8uOhOSYDlUH3wkYTvurFptAoGATxa8\npqJoCpgvZYhiLEp63x3XedmwK0VopQ90B6jEYt8W1a3UaA9RoQ0PpjXxhOdMKTgY\n7oqP8nh7H0BysMSg8SZZhnWR20rEa0hNluObkhgufZzESbMHf0srXF8SggPJZUse\njpCot1m4Yk8p12WvybdSV3RrF7gMtnWWA21EAAkCgYEA4qqVRsEMz/XlZw/ppiBu\nj3TYjx08dIdr9Ol27kfkzQsd1yByHOcFL0aCG2CR1luzkZB68JQ+xoiqu/PS+gnH\nvIyrYaArmMSSGflLjFSuJI0GZ3LsR4HQ/6JQ9aX5SI2bL8NkzqMHPpv4btFkaMXq\nkdFU+aUXdzeDka8LWD3FuV4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nemani-pro@vegas-mlcostrategy.iam.gserviceaccount.com",
+  "client_id": "107457243164381077935",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nemani-pro%40vegas-mlcostrategy.iam.gserviceaccount.com"
+}
